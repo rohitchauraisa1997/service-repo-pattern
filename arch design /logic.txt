@@ -1,0 +1,3 @@
+Router Interface delegates the requests to the controller layer and the controller layer 
+interacts with the service layer where the business logic is implemented.
+The service layer interacts with the repository, which can be anything a mongodb db, mysql db... 
